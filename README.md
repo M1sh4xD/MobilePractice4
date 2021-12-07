@@ -7,3 +7,6 @@
 
 ![Push](images/Screenshot_1638885031.png)
 
+![perm_take](images/perm_take.png)
+
+![perm_media](images/perm_media.png)
